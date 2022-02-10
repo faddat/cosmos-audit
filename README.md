@@ -27,3 +27,6 @@ I'm mainly interested in the histories of:
 I'm also mainly concerned because there are many claims about transparency floating around.
 
 Opacity is fine and the chains themselves are transparent enough, so let's get to work. 
+
+**Status**
+Making a fresh gaia archive node.
