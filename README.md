@@ -15,13 +15,18 @@ I'm mainly interested in the histories of:
 
 
 * [ICF Multisig](https://github.com/cosmos/mainnet/blob/master/accounts/icf/multisig.json)
-  * cosmos1unc788q8md2jymsns24eyhua58palg5kc7cstv
-    * 6083156.55 atoms
-  * cosmos1z8mzakma7vnaajysmtkwt4wgjqr2m84tzvyfkz 
+  * [cosmos1unc788q8md2jymsns24eyhua58palg5kc7cstv](https://www.mintscan.io/cosmos/account/cosmos1unc788q8md2jymsns24eyhua58palg5kc7cstv)
+    * 6083156.55 atoms in genesis
+  * [cosmos1z8mzakma7vnaajysmtkwt4wgjqr2m84tzvyfkz](https://www.mintscan.io/cosmos/account/cosmos1z8mzakma7vnaajysmtkwt4wgjqr2m84tzvyfkz)
     * 14194031.94 atoms 
 * [AIB Multisig](https://github.com/cosmos/mainnet/blob/f391b3ef4159a506bd16f71ddf02cc8b1a0d310a/accounts/aib/multisig.json)
-  * cosmos176m2p8l3fps3dal7h8gf9jvrv98tu3rqfdht86
+  * [cosmos176m2p8l3fps3dal7h8gf9jvrv98tu3rqfdht86](https://www.mintscan.io/cosmos/account/cosmos176m2p8l3fps3dal7h8gf9jvrv98tu3rqfdht86)
     * 21842188.81 atoms
+
+ICF delegations can be easily found above.
+
+AIB delegations will need analysis of hubs one to three.
+
 
 
 I'm also mainly concerned because there are many claims about transparency floating around.
