@@ -27,6 +27,8 @@ ICF delegations can be easily found above.
 
 AIB delegations will need analysis of hubs one to three.
 
+There's no lack of transparency in delegations. 
+
 
 
 I'm also mainly concerned because there are many claims about transparency floating around.
@@ -35,3 +37,6 @@ Opacity is fine and the chains themselves are transparent enough, so let's get t
 
 **Status**
 Making a fresh gaia archive node.
+
+[#7e8c46 419GiB/1,633GiB(25%) CN:5 DL:16MiB ETA:21h28m8s]
+
